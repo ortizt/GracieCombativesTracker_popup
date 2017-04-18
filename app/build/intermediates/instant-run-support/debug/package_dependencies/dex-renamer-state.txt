@@ -1,4 +1,4 @@
-#Mon Apr 17 21:29:15 MDT 2017
+#Tue Apr 18 00:47:18 MDT 2017
 file.2=C\:\\Users\\Timothy\\Desktop\\Electronics Solns\\GracieCombativesTracker22\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d9f5770b6638b2138d4dc325b7dbe463acb07718\\classes.dex
 base.2=C\:\\Users\\Timothy\\Desktop\\Electronics Solns\\GracieCombativesTracker22\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d9f5770b6638b2138d4dc325b7dbe463acb07718
 file.1=C\:\\Users\\Timothy\\Desktop\\Electronics Solns\\GracieCombativesTracker22\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6b39e5b31a42affe142fa1e9d0caf362b07897b5\\classes.dex

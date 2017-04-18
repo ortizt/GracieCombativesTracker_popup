@@ -1,4 +1,4 @@
-#Mon Apr 17 23:17:40 MDT 2017
+#Tue Apr 18 00:47:19 MDT 2017
 base.0=C\:\\Users\\Timothy\\Desktop\\Electronics Solns\\GracieCombativesTracker22\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fa840efd6f912cfd4275d3aef379f8c1c8d05dcb
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -16,15 +16,93 @@
         android:layout_width="417dp"
         android:layout_height="750dp"
         android:layout_gravity="bottom"
-        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/frameLayout"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true">
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="1000dp"
+            android:layout_height="1500dp"
             android:layout_gravity="top">
 
+
+            <ToggleButton
+                android:id="@+id/c12"
+                android:layout_width="75dp"
+                android:layout_height="80dp"
+                android:layout_below="@+id/c11"
+                android:layout_toEndOf="@+id/c11_stheadlockdef"
+                android:layout_toRightOf="@+id/c11_stheadlockdef"
+                android:background="@drawable/bordershape"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:gravity="center_vertical"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textOff="12"
+                android:textOn="12"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <ToggleButton
+                android:id="@+id/c12button2"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignBottom="@+id/c12_starmlock"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:background="@drawable/button_effect"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textOff=""
+                android:textOn="" />
+
+            <ToggleButton
+                android:id="@+id/c12button1"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignBaseline="@+id/c12_hlesc1"
+                android:layout_alignBottom="@+id/c12_hlesc1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:background="@drawable/button_effect"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textOff=""
+                android:textOn="" />
+
+            <TextView
+                android:id="@+id/c12_hlesc1"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:layout_alignLeft="@+id/c11_stheadlockdef"
+                android:layout_alignStart="@+id/c11_stheadlockdef"
+                android:layout_below="@+id/c11_stheadlockdef"
+                android:background="@drawable/bordershape"
+                android:ems="10"
+                android:gravity="center_vertical"
+                android:lines="2"
+                android:text="Headlock Escape 1 - Side Mount"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/c12_starmlock"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:layout_alignLeft="@+id/c12_hlesc1"
+                android:layout_alignStart="@+id/c12_hlesc1"
+                android:layout_below="@+id/c12_hlesc1"
+                android:background="@drawable/bordershape"
+                android:ems="10"
+                android:gravity="center_vertical"
+                android:lines="2"
+                android:text="Standing Armlock"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="16sp" />
 
             <ToggleButton
                 android:id="@+id/c11"
@@ -46,6 +124,65 @@
                 android:textStyle="bold" />
 
             <ToggleButton
+                android:id="@+id/c11button2"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_above="@+id/c12_hlesc1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:background="@drawable/button_effect"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textOff=""
+                android:textOn="" />
+
+            <ToggleButton
+                android:id="@+id/c11button1"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignBaseline="@+id/c11_headlockc"
+                android:layout_alignBottom="@+id/c11_headlockc"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:background="@drawable/button_effect"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textOff=""
+                android:textOn="" />
+
+            <TextView
+                android:id="@+id/c11_headlockc"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:layout_alignLeft="@+id/c10_dltd"
+                android:layout_alignStart="@+id/c10_dltd"
+                android:layout_below="@+id/c10"
+                android:background="@drawable/bordershape"
+                android:ems="10"
+                android:gravity="center_vertical"
+                android:lines="2"
+                android:text="Headlock Counters - Mount"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/c11_stheadlockdef"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:background="@drawable/bordershape"
+                android:ems="10"
+                android:gravity="center_vertical"
+                android:lines="2"
+                android:text="Standing Headlock Defense"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:layout_below="@+id/c11_headlockc"
+                android:layout_alignLeft="@+id/c11_headlockc"
+                android:layout_alignStart="@+id/c11_headlockc" />
+
+            <ToggleButton
                 android:id="@+id/c10"
                 android:layout_width="75dp"
                 android:layout_height="80dp"
@@ -63,6 +200,33 @@
                 android:textOn="10"
                 android:textSize="36sp"
                 android:textStyle="bold" />
+
+            <ToggleButton
+                android:id="@+id/c10button1"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignBaseline="@+id/c10_poscont"
+                android:layout_alignBottom="@+id/c10_poscont"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:background="@drawable/button_effect"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textOff=""
+                android:textOn="" />
+
+            <ToggleButton
+                android:id="@+id/c10button2"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_above="@+id/c11_headlockc"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:background="@drawable/button_effect"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textOff=""
+                android:textOn="" />
 
             <TextView
                 android:id="@+id/c10_dltd"
@@ -100,6 +264,9 @@
                 android:id="@+id/c9"
                 android:layout_width="75dp"
                 android:layout_height="80dp"
+                android:layout_below="@+id/c8"
+                android:layout_toEndOf="@+id/c9_elbowesc"
+                android:layout_toRightOf="@+id/c9_elbowesc"
                 android:background="@drawable/bordershape"
                 android:clickable="false"
                 android:focusable="false"
@@ -110,10 +277,7 @@
                 android:textOff="9"
                 android:textOn="9"
                 android:textSize="36sp"
-                android:textStyle="bold"
-                android:layout_below="@+id/c8"
-                android:layout_toRightOf="@+id/c9_elbowesc"
-                android:layout_toEndOf="@+id/c9_elbowesc" />
+                android:textStyle="bold" />
 
             <ToggleButton
                 android:id="@+id/c9button2"
@@ -146,6 +310,9 @@
                 android:id="@+id/c9_pullguard"
                 android:layout_width="250dp"
                 android:layout_height="40dp"
+                android:layout_below="@+id/c9_elbowesc"
+                android:layout_toEndOf="@+id/c9button2"
+                android:layout_toRightOf="@+id/c9button2"
                 android:background="@drawable/bordershape"
                 android:ems="10"
                 android:gravity="center_vertical"
@@ -153,10 +320,7 @@
                 android:text="Pull Guard"
                 android:textAlignment="center"
                 android:textColor="#000000"
-                android:textSize="16sp"
-                android:layout_below="@+id/c9_elbowesc"
-                android:layout_toRightOf="@+id/c9button2"
-                android:layout_toEndOf="@+id/c9button2" />
+                android:textSize="16sp" />
 
             <TextView
                 android:id="@+id/c9_elbowesc"
@@ -924,6 +1088,23 @@
                 android:max="100"
                 android:progress="0"
                 android:progressDrawable="@drawable/progress_drawable_vertical" />
+
+            <TextView
+                android:id="@+id/c12_hlesc"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:layout_alignLeft="@+id/beltbg"
+                android:layout_alignParentTop="true"
+                android:layout_alignStart="@+id/beltbg"
+                android:layout_marginTop="387dp"
+                android:background="@drawable/bordershape"
+                android:ems="10"
+                android:gravity="center_vertical"
+                android:lines="2"
+                android:text="Standing Headlock Defense"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="16sp" />
         </RelativeLayout>
 
         <ImageView

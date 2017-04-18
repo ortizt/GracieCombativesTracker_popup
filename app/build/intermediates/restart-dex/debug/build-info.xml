@@ -2,35 +2,59 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="25"
-    build-mode="COLD"
+    build-mode="FULL"
     density="420dpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1492492657453"
+    timestamp="1492498033538"
     token="-2383696393476304599"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="489" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="44" />
+        duration="454" />
     <task
         name="verifier"
-        duration="15" />
+        duration="215" />
 
     <artifact
-        location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
+        location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
         location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\outputs\apk\app-debug.apk"
@@ -38,22 +62,13 @@
 
     <build
         build-mode="FULL"
-        timestamp="1492486150450"
+        timestamp="1492498033538"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -65,30 +80,22 @@
             location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1492492657453"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\outputs\apk\app-debug.apk"
