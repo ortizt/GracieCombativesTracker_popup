@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Timothy\Desktop\GracieCombativesTracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="763a81582163e3e98b2f3bc6ac12e5a6c76e95ac">
-        <dex dex="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fa840efd6f912cfd4275d3aef379f8c1c8d05dcb\classes.dex" />
+        sha1="693c4c71800f5bd65ebb85f35225702531317ba3">
+        <dex dex="C:\Users\Timothy\Desktop\GracieCombativesTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8e94814e4db113e96ed04953191d0a26ac5f5553\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Timothy\Desktop\GracieCombativesTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Users\Timothy\Desktop\Electronics Solns\GracieCombativesTracker22\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_df98f1934b78a6594d0083369dc085deff8732fd\classes.dex" />
+        <dex dex="C:\Users\Timothy\Desktop\GracieCombativesTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e45d37f944aaf3f5b50cc486201ea2d2a2e04595\classes.dex" />
     </item>
 
 </items>

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Timothy\\Desktop\\Electronics Solns\\GracieCombativesTracker22\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Timothy\\.android\\build-cache\\127cc33a8459dd9ec5405bff407b0ae3713e8819\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "C:\\Users\\Timothy\\Desktop\\GracieCombativesTracker\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Timothy\\.android\\build-cache\\127cc33a8459dd9ec5405bff407b0ae3713e8819\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\Timothy\\Desktop\\Electronics Solns\\GracieCombativesTracker22\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\Timothy\\.android\\build-cache\\127cc33a8459dd9ec5405bff407b0ae3713e8819\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "C:\\Users\\Timothy\\Desktop\\GracieCombativesTracker\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Timothy\\.android\\build-cache\\127cc33a8459dd9ec5405bff407b0ae3713e8819\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     }
 ]

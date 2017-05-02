@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Timothy\\Desktop\\Electronics Solns\\GracieCombativesTracker22\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "merged": "C:\\Users\\Timothy\\Desktop\\GracieCombativesTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
         "source": "C:\\Users\\Timothy\\.android\\build-cache\\1deeec4440d1799d148bf44cebdcf192d557cd05\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Timothy\\Desktop\\Electronics Solns\\GracieCombativesTracker22\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "merged": "C:\\Users\\Timothy\\Desktop\\GracieCombativesTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Timothy\\.android\\build-cache\\1deeec4440d1799d148bf44cebdcf192d557cd05\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Timothy\\Desktop\\GracieCombativesTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\Timothy\\.android\\build-cache\\1deeec4440d1799d148bf44cebdcf192d557cd05\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\Timothy\\Desktop\\Electronics Solns\\GracieCombativesTracker22\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "merged": "C:\\Users\\Timothy\\Desktop\\GracieCombativesTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Timothy\\.android\\build-cache\\1deeec4440d1799d148bf44cebdcf192d557cd05\\output\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\Timothy\\Desktop\\Electronics Solns\\GracieCombativesTracker22\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Timothy\\.android\\build-cache\\1deeec4440d1799d148bf44cebdcf192d557cd05\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]
